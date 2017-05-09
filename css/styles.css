@@ -3,9 +3,10 @@
 }
 
 .contact {
-  color: purple;
+  color: green;
+
 }
 
 .contact:hover {
-  text-decoration: overline;
+  text-decoration: underline;;
 }
